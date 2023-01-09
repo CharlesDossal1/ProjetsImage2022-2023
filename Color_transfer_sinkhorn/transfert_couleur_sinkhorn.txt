@@ -1,0 +1,2 @@
+Le document associé à ce projet est dans le repertoire nommé "Color_transfer_sliced_wasserstein", car les deux projets portent une partie en commun.
+
