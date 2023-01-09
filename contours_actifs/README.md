@@ -3,8 +3,11 @@
 Requirements pour ce projet :
 
 ``scipy``
+
 ``numpy``
+
 ``pylab``
+
 ``matplotlib``
 
 Le dossier ``nt_toolbox`` contient les librairies nécessaires à l'exécution du code. 
